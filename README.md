@@ -1,10 +1,15 @@
 # AbleSpace_ExploratoryTesting_Assignment
 
 Application name: AbleSpace
+
 Environment: staging.ablepace.io
+
 Tested By: Vijaya Rubini
+
 Testing type: Manual Exploratory testing, Cross browser testing
+
 Browser/ Device -Microsoft Edge, Google Chrome, Mobile Application
+
 Date: 14-10-26
 
 
